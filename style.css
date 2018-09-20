@@ -1,0 +1,50 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+
+nav li {
+    float: left;    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font: 18px Arial;
+    
+}
+
+li a:hover{
+    background-color: #71D9B3;
+    color: #02525C;
+}
+
+#top {
+    color: #02525C;
+    font: bold 45px Candara;
+    margin: 5px;
+    
+}
+#statement{
+    font: italic bold 25px Candara;
+    color: #02525C;
+    
+}
+.header {
+    font: 23px Candara;
+    color: #DE0547;
+    
+}
+
+.text {
+    font: 18px Arial;
+    color: #333;
+    
+}
